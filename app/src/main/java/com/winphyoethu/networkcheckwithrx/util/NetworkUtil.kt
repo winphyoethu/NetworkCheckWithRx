@@ -2,8 +2,6 @@ package com.winphyoethu.networkcheckwithrx.util
 
 import android.content.Context
 import android.net.ConnectivityManager
-import android.net.LinkProperties
-import android.net.Network
 import android.net.NetworkCapabilities
 import android.os.Build
 
